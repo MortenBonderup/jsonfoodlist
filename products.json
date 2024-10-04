@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Smoky Lentil Soup",
+        "minutes": 30,
+        "description": "with minced veggies and coconuy milk.",
+        "image": "images/ifood.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cuban Ground Beef Picadillo",
+        "minutes": 40,
+        "description": "with veggies and mashed potato.",
+        "image": "images/bibimbap.jpg"
+    },
+    {
+        "id": 3,
+        "name": "JChef Spiced Ground Beef Tacos",
+        "minutes": 40,
+        "description": "with black beans and rice.",
+        "image": "images/food.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pineapple Salsa Steak",
+        "minutes": "25-30",
+        "description": "with argugula salad (premium cut: 18 extra per serving)",
+        "image": "images/giblets.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sweet & Spicy Salmon",
+        "minutes": "20-25",
+        "description": "with zucchini ribbon salad.",
+        "image": "images/ramen.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jerk Chicken",
+        "minutes": 30,
+        "description": "with pineapple salsa and jasmine rice.",
+        "image": "images/tteokbokki.jpg"
+    }
+]
